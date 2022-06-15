@@ -1,0 +1,62 @@
+.image {
+    border-radius: 100px;
+    border-color: pink;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    padding: 15px
+    
+    
+}
+
+.header {
+    text-align: center;
+color: turquoise;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: blueviolet;
+    margin: 150px;
+    font-size: medium;
+}
+
+body {
+    background-color: teal;
+}
+
+.Imga {
+    background-color: pink;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+.step {
+    background-color: pink;
+    font-size: 15px;
+    font-family:'Courier New', Courier, monospace;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+#steps {
+    background-color: blueviolet;
+   margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    color: turquoise;
+    border-radius: 15px;
+    font-weight: 700;
+    font-size: medium;
+}
+
+.Ingr {
+    background-color: blueviolet;
+    margin: 10px;
+    font-family:'Courier New', Courier, monospace;
+    color: turquoise;
+    border-radius: 15px;
+    font-size: medium;
+}

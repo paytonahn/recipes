@@ -1,0 +1,68 @@
+.home {
+    text-align: center;
+color: turquoise;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: 700;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: blueviolet;
+    margin: 150px;
+    font-size: medium;
+    
+}
+
+body {
+    background-color: teal;
+    font-size: 15px;
+}
+
+.desc3 {
+    
+    background-color: blueviolet;
+    border-radius: 15px;
+    font-family:'Courier New', Courier, monospace;
+    color: turquoise;
+    font-weight: 700;
+    text-align: left;
+    font-size: medium;
+
+}
+
+.text1 {
+    background-color: pink;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+
+.nav {
+    background-color: blueviolet;
+    font-size: 11px;
+    font-family:'Courier New', Courier, monospace;
+    color: turquoise;
+    border-radius: 15px;
+   
+}
+
+.text2 {
+    background-color: pink;
+    color: whitesmoke;
+    border-radius: 15px;
+}
+
+.desc {
+    background-color: blueviolet;
+    font-family:'Courier New', Courier, monospace;
+    color: turquoise;
+    border-radius: 10px;
+    border: 15px;
+
+}
+
+.list {
+    background-color: pink;
+    color: whitesmoke;
+    border-radius: 15px;
+    list-style-type: none;
+    
+
+}
